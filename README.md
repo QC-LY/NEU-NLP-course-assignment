@@ -51,3 +51,5 @@ python test.py
 | torch.nn.LSTM | 5.727529 | 307.209 |
 | MyLSTM        | 5.783124 | 324.772 |
 
+## Others
+其他的一些与课程相关的尝试
