@@ -31,7 +31,7 @@ python LSTMLM.py
 The command to test is listed below:
 
 ```
-python test.py  # model_type  0 or 1  # 0: torch.nn.LSTM(); 1: MyLSTM()
+python test.py  # model_type  0 or 1   0: torch.nn.LSTM(); 1: MyLSTM()
 ```
 
 ## Resualt
